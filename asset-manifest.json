@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nf-ultimate/static/css/main.7227393b.css",
-    "main.js": "/nf-ultimate/static/js/main.548c87b5.js",
+    "main.js": "/nf-ultimate/static/js/main.377755b0.js",
     "index.html": "/nf-ultimate/index.html",
     "main.7227393b.css.map": "/nf-ultimate/static/css/main.7227393b.css.map",
-    "main.548c87b5.js.map": "/nf-ultimate/static/js/main.548c87b5.js.map"
+    "main.377755b0.js.map": "/nf-ultimate/static/js/main.377755b0.js.map"
   },
   "entrypoints": [
     "static/css/main.7227393b.css",
-    "static/js/main.548c87b5.js"
+    "static/js/main.377755b0.js"
   ]
 }
